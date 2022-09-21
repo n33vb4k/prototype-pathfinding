@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEA prototype pathfinding", "NEA prototype pathfinding\NEA prototype pathfinding.csproj", "{375C5338-F65A-419E-A47B-9CC666D778A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375C5338-F65A-419E-A47B-9CC666D778A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375C5338-F65A-419E-A47B-9CC666D778A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375C5338-F65A-419E-A47B-9CC666D778A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375C5338-F65A-419E-A47B-9CC666D778A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA85950E-0F9B-4EDF-AE70-AD7C6E708A1F}
+	EndGlobalSection
+EndGlobal
